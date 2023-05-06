@@ -1,0 +1,3 @@
+[submodule "module/lc-loss"]
+	path = module/lc-loss
+	url = https://github.com/amazon-science/lc-loss.git
